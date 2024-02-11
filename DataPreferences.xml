@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Flag.15" value="true" />
+    <boolean name="Flag.13" value="true" />
+    <boolean name="Flag.14" value="false" />
+    <boolean name="Flag.11" value="false" />
+    <int name="calls2" value="1" />
+    <boolean name="Flag.12" value="true" />
+    <boolean name="Flag.10" value="true" />
+    <boolean name="sim3" value="true" />
+    <int name="manual_del_bluetooth" value="4" />
+    <int name="rm_ct" value="71" />
+    <int name="notify_ic" value="2" />
+    <int name="rm_clt" value="15" />
+    <int name="sim_extra_2" value="1" />
+    <int name="sim_extra_1" value="0" />
+    <int name="rm_st" value="1" />
+    <int name="sim_extra_3" value="2" />
+    <int name="ver_os" value="31" />
+    <string name="ass_c_v.0">+523311914956</string>
+    <long name="sub_id" value="0" />
+    <int name="ass_c_n.0" value="0" />
+    <int name="DataPreferencesVersion" value="1" />
+    <int name="dialog_style" value="3" />
+    <int name="delay" value="1500" />
+    <int name="ver_db" value="9" />
+    <boolean name="sub_vp" value="false" />
+    <boolean name="dual_sim" value="true" />
+    <int name="rm_v" value="290000" />
+    <int name="sim_color_3" value="9" />
+    <int name="sim_color_2" value="1" />
+    <int name="sim_color_1" value="0" />
+    <string name="oid"></string>
+    <string name="s_g_uil">es_ES</string>
+    <int name="theme" value="1" />
+    <int name="sim_def" value="0" />
+    <boolean name="Flag.04" value="true" />
+    <boolean name="Flag.05" value="true" />
+    <boolean name="Flag.02" value="true" />
+    <boolean name="Flag.03" value="true" />
+    <string name="ass_m_v.0">+33119.14956</string>
+    <boolean name="Flag.00" value="false" />
+    <boolean name="Flag.01" value="false" />
+    <int name="rm_rct" value="248" />
+    <int name="ass_m_n.0" value="0" />
+    <boolean name="Flag.08" value="true" />
+    <int name="manual_del_normal" value="2" />
+    <boolean name="Flag.09" value="true" />
+    <int name="rm_dt" value="42" />
+    <boolean name="Flag.06" value="true" />
+    <boolean name="Flag.07" value="false" />
+    <boolean name="rated" value="false" />
+    <boolean name="sub_restored" value="false" />
+    <int name="rm_pt" value="493620" />
+    <int name="bt_mode" value="0" />
+    <int name="calls" value="5" />
+    <long name="rm_lt" value="1707647985910" />
+    <string name="sim_name_2">Yo</string>
+    <string name="sim_name_3"></string>
+    <string name="sim_name_1">Glo</string>
+    <int name="manual_del_assoc" value="2" />
+</map>
